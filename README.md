@@ -1,6 +1,9 @@
 Nguyễn Thị Quỳnh Trang - 23676071
+
 Ngô Phước Thiên - 23670311
+
 Phạm Ngọc Toàn - 23672111
+
 **Báo cáo Bài tập 1: Tải và giải nén tệp với Python**
 _Mục tiêu_
 Thực hành kỹ năng xử lý file trong Python, bao gồm:
@@ -152,7 +155,9 @@ Cấu trúc CSV đầy đủ, đúng thứ tự và tiêu đề rõ ràng
 Script hoạt động tốt với số lượng file lớn và cây thư mục sâu
 
 **Báo cáo Bài tập 5: Thiết kế bảng và nạp dữ liệu vào PostgreSQL bằng Python**
+
 Mục tiêu
+
 Thực hành 3 kỹ năng quan trọng trong Data Engineering:
 
 Thiết kế mô hình dữ liệu (data modeling)

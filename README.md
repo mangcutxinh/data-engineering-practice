@@ -150,6 +150,7 @@ Mỗi file JSON được chuyển thành một file CSV trong cùng thư mục (
 Cấu trúc CSV đầy đủ, đúng thứ tự và tiêu đề rõ ràng
 
 Script hoạt động tốt với số lượng file lớn và cây thư mục sâu
+
 **Báo cáo Bài tập 5: Thiết kế bảng và nạp dữ liệu vào PostgreSQL bằng Python**
 Mục tiêu
 Thực hành 3 kỹ năng quan trọng trong Data Engineering:
